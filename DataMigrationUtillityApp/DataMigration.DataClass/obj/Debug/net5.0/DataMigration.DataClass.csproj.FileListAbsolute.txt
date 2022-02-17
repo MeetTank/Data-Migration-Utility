@@ -1,0 +1,36 @@
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.csproj.AssemblyReference.cache
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.AssemblyInfoInputs.cache
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.AssemblyInfo.cs
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.csproj.CoreCompileInputs.cache
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.deps.json
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.runtimeconfig.json
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.runtimeconfig.dev.json
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.dll
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\ref\DataMigration.DataClass.dll
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.pdb
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DomainClass.dll
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DomainClass.pdb
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.csproj.CopyComplete
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.dll
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\ref\DataMigration.DataClass.dll
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.pdb
+D:\ALL _ SEM\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.genruntimeconfig.cache
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.deps.json
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.runtimeconfig.json
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.runtimeconfig.dev.json
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.dll
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\ref\DataMigration.DataClass.dll
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DataClass.pdb
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DomainClass.dll
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\bin\Debug\net5.0\DataMigration.DomainClass.pdb
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.csproj.AssemblyReference.cache
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.AssemblyInfoInputs.cache
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.AssemblyInfo.cs
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.csproj.CoreCompileInputs.cache
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.csproj.CopyComplete
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.dll
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\ref\DataMigration.DataClass.dll
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.pdb
+C:\Users\Meet Tank\Desktop\DataMigrationUtillityApp\DataMigrationUtillityApp\DataMigration.DataClass\obj\Debug\net5.0\DataMigration.DataClass.genruntimeconfig.cache

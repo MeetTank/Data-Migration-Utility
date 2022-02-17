@@ -1,0 +1,1 @@
+Select COUNT(*) from DestinationTable
